@@ -6,7 +6,7 @@ export default function Mid () {
     return (
         <div className='bottommid'>
             <Image 
-                src='/espressoicon.png'
+                src='/coffee.png'
                 width={100}
                 height={100}
                 alt='espresso icon'
