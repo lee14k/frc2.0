@@ -1,4 +1,5 @@
 import Navbar from "@/components/Navbar"
+import Footer from "@/components/Footer"
 import {ProductBrowser} from '@ecwid/nextjs-ecwid-plugin'
 
 export default function Store () {
@@ -8,6 +9,7 @@ export default function Store () {
   <ProductBrowser
         storeId="7579020"
       />
+      <Footer/>
         </div>
     )
 }
