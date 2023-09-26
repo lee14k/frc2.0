@@ -29,7 +29,7 @@ function Navbar() {
   };
 
   return (
-    <div className="navbar">
+    <div className="navbar mb-20 mt-10">
       {typeof window !== 'undefined' && isMobile && (
         <div className={`hamburger-icon ${showMobile && !dropdown ? 'open' : ''}`} onClick={toggleHamburger}>
           <div className="line" />
