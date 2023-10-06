@@ -5,7 +5,7 @@ const navigation = {
     { name: "Events", href: "/Events" },
     { name: "Food", href: "/Food" },
     { name: "Contact", href: "/Contact" },
-    { name: "Books", thref: "/Books" },
+    { name: "Books", href: "/Books" },
     { name: "Store", href: "/Store" },
   ],
   social: [

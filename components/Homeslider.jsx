@@ -3,9 +3,10 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 
 const images = [
-  './frc.jpeg', // replace with your image URLs
-  './frcneon.jpeg', 
-  './frcmugwall.jpeg',
+  './artstore.jpg', // replace with your image URLs
+  './newneon.jpg', 
+  './club.jpg',
+  './pour.jpg',
   // add more URLs as needed
 ];
 
